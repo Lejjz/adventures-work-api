@@ -6,7 +6,7 @@ Observação: Infelizmente tive um problema com a documentação, mas para conse
 
 
 
-Coverage está adicionado para reaizar a cobertura de teste:
+Coverage está adicionado para realizar a cobertura de teste:
 
 ![image](https://github.com/Lejjz/adventures-work-api/assets/93527893/27f98040-3c93-4e6c-aa5f-8e0aa883cfa3)
 
