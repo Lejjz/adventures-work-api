@@ -1,0 +1,7 @@
+pydantic
+pandas
+sqlalchemy
+pytest
+uvicorn
+swagger-ui
+flasker

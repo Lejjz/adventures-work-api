@@ -1,0 +1,1 @@
+608,2,ABCD1234,Product 1,Model 1,Description 1,Red,10.5,1,50.0,100.0
